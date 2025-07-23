@@ -6,8 +6,8 @@ Image  image.OnAlphaTween("Your data") and much more!<br>
 Do projects and don't worry!<br><br>
 
 Methods you can use:<br>
-OnAlphaTween<br>
-OnMaterialValueTween<br>
-OnColorTween<br>
-OnTransformTween<br>
-OnValueTween
+– OnAlphaTween<br>
+– OnMaterialValueTween<br>
+– OnColorTween<br>
+– OnTransformTween<br>
+– OnValueTween
